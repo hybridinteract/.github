@@ -4,7 +4,7 @@ Welcome to the official GitHub organization of **Hybrid Interactive** — where 
 
 We build scalable, reliable, and human-centered digital products. Our engineering team is passionate about open collaboration, clean code, and continuous improvement.
 
-## 🔗 Engineering Blog
+## 🔗 Engineering Page
 
 Explore our engineering insights, best practices, and technical deep-dives at:
 
